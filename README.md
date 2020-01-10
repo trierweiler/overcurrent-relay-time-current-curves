@@ -5,9 +5,9 @@
 
 
 
-![phase_overcurrent](\images\phase_overcurrent_curves.jpeg)
+![phase_overcurrent](https://github.com/trierweiler/overcurrent-relay-time-current-curves/blob/master/images/phase_overcurrent_curves.jpeg)
 
 
 
-![ground_overcurrent](\images\ground_overcurrent_curves.jpeg)
+![ground_overcurrent](https://github.com/trierweiler/overcurrent-relay-time-current-curves/blob/master/images/ground_overcurrent_curves.jpeg)
 
