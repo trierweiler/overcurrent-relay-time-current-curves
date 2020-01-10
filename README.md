@@ -3,8 +3,8 @@
 
 
 
-![phase_overcurrent](\images\phase_overcurrent_curves.jpg)
+![phase_overcurrent](/images/phase_overcurrent_curves.jpg)
 
 
 
-![ground_overcurrent](\images\ground_overcurrent_curves.jpg)
+![ground_overcurrent](/images/ground_overcurrent_curves.jpg)
