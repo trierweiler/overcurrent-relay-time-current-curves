@@ -5,9 +5,9 @@
 
 
 
-![phase_overcurrent](C:\Users\eng_g\Documents\GitHub\overcurrent-relay-time-current-curves\images\phase_overcurrent_curves.jpeg)
+![phase_overcurrent](\images\phase_overcurrent_curves.jpeg)
 
 
 
-![ground_overcurrent](C:\Users\eng_g\Documents\GitHub\overcurrent-relay-time-current-curves\images\ground_overcurrent_curves.jpeg)
+![ground_overcurrent](\images\ground_overcurrent_curves.jpeg)
 
